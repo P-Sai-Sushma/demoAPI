@@ -1,6 +1,6 @@
 import pytest
-import sys
-sys.path.append('C:\\Users\\HP\\Desktop\\demoAPI')
+# import sys
+# sys.path.append('C:\\Users\\HP\\Desktop\\demoAPI')
 from demoAPI.app import app 
 
 @pytest.fixture
